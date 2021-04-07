@@ -11,6 +11,7 @@ tour.name = Bless This Mess
 
 ### Label
 Label_B0F4BCED_AB8F_3A8F_41D6_F810AAEEFA3B.text = copyright SERRUM  ARTHANDLING
+Label_B0F4BCED_AB8F_3A8F_41D6_F810AAEEFA3B_mobile.text = copyright SERRUM  ARTHANDLING
 
 ## Media
 
@@ -41,5 +42,7 @@ video_8F744FAE_AB89_768D_41DF_86AEB53F9710.label = video display bless mess A
 ## Action
 
 ### URL
+PopupWebFrameBehaviour_B6A09EBF_A88B_D68B_41E2_671F0E532586.url = https://www.google.com/maps/embed?pb=!4v1617766307712!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f4.308524705509363!4f-2.11600720772212!5f0.4000000000000002
+PopupWebFrameBehaviour_B6A45EC3_A88B_D6FB_41C9_23DAA4EA5F2C.url = //www.youtube.com/embed/oJ3sptuhe8Q
 PopupWebFrameBehaviour_BD42D990_AB89_3A95_41E1_8B5C4ABC9C5D.url = //www.youtube.com/embed/oJ3sptuhe8Q
 PopupWebFrameBehaviour_BFA819BA_ABBE_DA95_41DB_804409F9862A.url = https://www.google.com/maps/embed?pb=!4v1617766307712!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f4.308524705509363!4f-2.11600720772212!5f0.4000000000000002
