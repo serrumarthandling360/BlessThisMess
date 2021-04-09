@@ -7,12 +7,6 @@
 ### Title
 tour.name = Bless This Mess
 
-## Skin
-
-### Label
-Label_B0F4BCED_AB8F_3A8F_41D6_F810AAEEFA3B.text = copyright SERRUM  ARTHANDLING
-Label_B0F4BCED_AB8F_3A8F_41D6_F810AAEEFA3B_mobile.text = copyright SERRUM  ARTHANDLING
-
 ## Media
 
 ### Title
@@ -41,8 +35,22 @@ video_8F744FAE_AB89_768D_41DF_86AEB53F9710.label = video display bless mess A
 
 ## Action
 
+### PDF
+PopupPDFBehaviour_9D322C5D_B750_BF90_41C0_5EE7F5DFB95A.url = files/katalog BTM small_en.pdf
+PopupPDFBehaviour_A8576890_B757_D890_41D9_985BF22F6988.url = files/katalog BTM small_en.pdf
+
 ### URL
+PopupWebFrameBehaviour_978F9C7B_B75F_BF91_41BE_CA504D1C10E7.url = https://www.instagram.com/p/B-sGKI-Audc/embed
+PopupWebFrameBehaviour_A08BF2C9_B770_C8F1_41C1_B77B0500E6BC.url = https://www.instagram.com/p/CKSwkzthjK6/embed
+PopupWebFrameBehaviour_A0F432EF_B773_C8B1_41DE_DA15657E8078.url = https://www.instagram.com/p/B-sGKI-Audc/embed
+PopupWebFrameBehaviour_A272D0F0_B750_C890_41C3_98876383C47F.url = https://www.instagram.com/p/CKSwkzthjK6/embed
+PopupWebFrameBehaviour_A43DE94E_B731_D9F0_41C4_FFCBEF656562.url = https://www.instagram.com/p/CJKjNnDHEJ5/embed
+PopupWebFrameBehaviour_A4613B1B_B750_5990_41B7_D86ED25BE19B.url = https://www.instagram.com/p/CFrlAqVAkBq/embed
+PopupWebFrameBehaviour_A58C173C_B730_4990_41DF_4688238C4590.url = https://www.instagram.com/p/CJ6H78-AIEo/embed
+PopupWebFrameBehaviour_AE2CBCF0_B773_D890_41D6_86585F2E603C.url = //www.youtube.com/embed/oJ3sptuhe8Q
+PopupWebFrameBehaviour_AF084439_B770_CF90_41E6_8BD85C6CEF9A.url = https://www.instagram.com/p/CJ6H78-AIEo/embed
+PopupWebFrameBehaviour_AF4A1A80_B770_DB70_41C9_AD0734C8B722.url = https://www.instagram.com/p/CJKjNnDHEJ5/embed
+PopupWebFrameBehaviour_AF707153_B770_4990_41CD_A47ED49D71E9.url = https://www.instagram.com/p/CFrlAqVAkBq/embed
 PopupWebFrameBehaviour_B6A09EBF_A88B_D68B_41E2_671F0E532586.url = https://www.google.com/maps/embed?pb=!4v1617766307712!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f4.308524705509363!4f-2.11600720772212!5f0.4000000000000002
-PopupWebFrameBehaviour_B6A45EC3_A88B_D6FB_41C9_23DAA4EA5F2C.url = //www.youtube.com/embed/oJ3sptuhe8Q
 PopupWebFrameBehaviour_BD42D990_AB89_3A95_41E1_8B5C4ABC9C5D.url = //www.youtube.com/embed/oJ3sptuhe8Q
 PopupWebFrameBehaviour_BFA819BA_ABBE_DA95_41DB_804409F9862A.url = https://www.google.com/maps/embed?pb=!4v1617766307712!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.31900732588696!2d106.8153769274029!3f4.308524705509363!4f-2.11600720772212!5f0.4000000000000002
